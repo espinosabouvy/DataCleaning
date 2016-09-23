@@ -64,6 +64,7 @@ xpathSApply(parsedHtml, "//title", xmlValue)
 
 #API'S
 #revisar development en face, twitter, google, etc.
+"GitHub - crear development account - generar una aplicacion y obtener "
 
 #others
 hay packages para todo, específico, revisar 
